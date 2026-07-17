@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="Demo-ROP-FC-IS,Demo-ROP-FC-IS.demo-clean,Demo-ROP-FC-IS.demo-clean.main,Demo-ROP-FC-IS.demo-clean.test,Demo-ROP-FC-IS.demo-messy,Demo-ROP-FC-IS.demo-messy.main,Demo-ROP-FC-IS.demo-messy.test,Demo-ROP-FC-IS.main,Demo-ROP-FC-IS.test" />
+  </component>
+</project>
